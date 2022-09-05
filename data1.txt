@@ -1,0 +1,1134 @@
+Not happy with the compensation
+My pay scale is very low compare with my experience, so got  good opportunity in terms of better compensation and growth.
+Better opportunity and higher compensation.
+Got  opportunity with a product based  company and better  compensation.
+
+Remote desktop
+Username: krishnawin
+Remote server: 172.21.1.11
+Pwd:Trianz@123+Winauth pin
+915661
+perf:ssh -L 5444:172.16.32.231:5444 -m hmac-sha2-256 tr1anzLinAdmin@172.21.1.10----172.21.1.13(soap)/14/15
+•	SC nodes
+o	172.16.32.38
+o	172.16.32.39
+•	DB nodes
+o	172.16.32.231
+
+ C0r0na@2018
+  C0r0na@2018
+  
+  C0r0na@2017
+  
+  C0r0na@2016
+    C0r0na@2015
+	C0r0na@2014
+	C0r0na@2012 
+	C0r0na@2011 C0r0na@2011
+	C0r0na@2010 C0r0na@2010
+	 C0r0na@2010
+	 Wipro@1234
+	 Wipro@12345  
+	 Wipro@123456 
+	 Wipro@1234567
+#################################MTF Shilpa#############################3   S@msung36 S@msung36
+ssh -L 5444:172.16.32.229:5444 -m hmac-sha2-256 omadmin@172.21.1.10
+Trianz@12345
+S@msung36 S@msung36  S@msung36  S@msung36 S@msung36 S@msung36 S@msung36
+####################################3
+ssh -L 5444:172.16.32.229:5444 -m hmac-sha2-256 omadmin@172.21.1.10 S@msung36
+stage:ssh -L 5444:172.16.32.229:5444 -m hmac-sha2-256 tr1anzLinAdmin@172.21.1.10----172.21.1.40
+      ssh -L 8093:172.16.32.229:8093 -m hmac-sha2-256 omadmin@172.21.1.10   ---SIT            S@msung36       S@msung36 S@msung36 S@msung36 S@msung36
+	  ssh -L 8093:172.16.32.229:8093 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+	  Mpguser@1234567890 
+ssh -L 5444:172.16.32.229:5444 -m hmac-sha2-256 omadmin@172.21.1.10
+QA-ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 krishna@172.21.1.10--------------172.21.1.49
+
+ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 omadmin@23.97.253.248
+Trianz@12345
+####################################MTF################################# https://mtfisosit.mpgpoctrz.com/EG/
+
+App URL:  https://mtfisosit.mpgpoctrz.com  
+
+DB tunneling:   ssh -L 8093:172.16.32.229:8093 -m hmac-sha2-256 omadmin@172.21.1.10
+
+Pwd: Trianz@12345
+DB details username pwd everything is same only port is different. For UAT port is 5444 for SIT MTF its 8092. Apart from this all other details are same.
+
+In Soap Project- Egypt . Create new test case for this environment, I have cloned existing UAT setup and just changed port 5444 to 8092.
+
+###################################################3
+
+Perf/c2d2
+ssh -L 5444:172.16.32.231:5444 -m hmac-sha2-256 omadmin@172.21.1.10
+Trianz@111
+Trianz@12345
+Mpguser@1234567
+Halfmoon@98765
+ssh -L 5444:172.16.32.231:5444 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+Mpguser@1234567890 
+
+UAT MTF:
+
+ssh -L 5444:172.16.32.229:5444 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+
+QA
+ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 omadmin@172.21.1.10    23.97.253.248
+ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 omadmin@23.97.253.248
+Trianz@12345
+
+ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11 
+Mpguser@1234567890 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 omadmin@172.21.1.10 
+
+Trianz@111 
+ssh -L 5444:172.16.32.100:5444 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+ssh -L 5444:172.16.40.100:5444 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+Mpguser@1234567890
+  
+ S@msung36  S@msung36  ${#TestCase#pinBlock}
+  
+Mpguser@1234567890 Mpguser@1234567890
+###########################################################################################
+eypt project
+C:\Users\krishnakumar.m\Downloads\cmd
+Egypt-soapui-project
+
+other in documents folder
+Egypt-soapui-project
+#############################################################################################
+dev-ssh -L 5444:172.16.40.36:5444 -m hmac-sha2-256 krishna@172.21.1.10
+Mpg@12345 Trianz@12345
+https://172.21.1.59/user/sign_in ------git url
+Krishnakumar
+git Wipro@123
+Actual DB IP: 172.16.32.228
+ Traianz@12345
+Username : tr1anzLinAdmin
+Password :  vYm8sSLsQGHYA 
+[mpg_user@mpgwestgepasdb02 ~]$ hostname -i
+[tr1anzLinAdmin@mpgweairxway ~]$ ssh mpg_user@172.16.32.229
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%QA%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+172.16.40.228----->Service Container
+172.16.42.5------>QA environment Web Portal
+172.16.40.196------>QA environment RabbitMQ Server
+172.16.40.100--->New QA DB in WE region
+
+172.21.1.49 port 443.----->Net scaler
+
+DB MCSP : 
+def prefix = 'jdbc:edb://'
+//def mcspUrl = '172.16.32.231:5444'
+def mcspUrl = 'localhost:5444'
+def mcspUsername = 'mpg_apps'
+def mcspPassword = 'edb'
+def mcspSid = 'degmcsp'
+DB MODS:
+def prefix = 'jdbc:edb://'
+//def modsUrl = '172.16.32.231:5444'
+def modsUrl = 'localhost:5444'
+def modsUsername = 'fods_apps'
+def modsPassword = 'edb'
+def modsSid = 'degmods'
+def modsDriver='com.edb.Driver'
+ 
+ 
+Tables
+select * from mods_trace_logs where rrn=''
+select * from mods_txn_logs where rrn=''
+select * from MPG_SUBSCRIBERS where msisdn='00221126155406' ------>get subs_id,mpg_acct_id,mpin_has_changed,status, mno_id
+select * from MPG_ACCOUNTS where user_id='00221126155406' -------->get mpg_acct_id,mpg_acct_no,subs_id,lock_flag,mpin_has_changed(tc-0 means pin has not chnaged,2-change and reset pin)
+select * from MPG_FUNDING_ACCTS where rta_fund_pan='5370171000311324'
+       -------> get fund_acct_id,rta_fund_pan(card_name),card_pan1(card_pan1_alias),card_pan2(card_pan2_alias),txn_lock,card_pan1_lock_flag,card_pan2_lock_flag
+select * from MPG_FUNDING_ACCTS where fund_acct_id in (select fund_acct_id from MPG_FUND_ACCT_MAPPING where subs_id in(select subs_id from MPG_SUBSCRIBERS where msisdn='00221126155406'))
+
+select * from MPG_FUND_ACCT_MAPPING -------->mpg_acct_id,fund_acct_id,subs_id
+
+select * from  MPG_MERCHANTS where user_id='00221126130747' ------>get mer_id,subs_id,card_pan,card_pan_alias
+
+update flag to Recipient does not exist then update flag to value='N'
+select * from mpg_config where category='GLOBAL' and key='SEND_TO_UNREG'
+
+SELECT method FROM mpg_mno_noti_channel WHERE mno_id = 'FAWRY' AND role = 'R' AND type = 'CONSUMER'
+for PAYMOBMNO:legs=8
+
+ if (queryToCheckNotiMethod.toString() == 'STDAPI')  OR 'BOTH'
+ legs = "8"
+ 
+ others its 
+ lges ="6"
+ 
+ DE 108---- for payment legs
+ DE 45
+	
+${Generate Pinblock#Response#declare namespace ns2='http://smarthub.com.ph/mpg/schemas/testing/utilities/generate-pinblock'; //ns2:GeneratePinblockResponse[1]/ns2:pinblock[1]}
+
+select * from mpg_response_messages where response_code='1996'
+select * from mpg_response_messages_mapping limit 1   response_code, error_code
+
+Functional spec
+SMDOM
+https://trianz365.sharepoint.com/sites/MasterCard/MPG%20Wiki/Pages/SendMoney%20Domestic.aspx
+Tech spec
+https://trianz365.sharepoint.com/sites/MasterCard/MPG%20Wiki/Pages/Technical%20-%20SMDOM%20-%20Send%20Money%20Domestic%20-%20Tahweel%20Flow.aspx
+P2MMT
+https://trianz365.sharepoint.com/sites/MasterCard/MPG Wiki/Pages/P2MMoneyTransfer.aspx
+
+M2M
+https://trianz365.sharepoint.com/sites/MasterCard/MPG Wiki/SitePages/M2M-MoneyTransfer.aspx
+
+Tech Spec
+https://trianz365.sharepoint.com/sites/MasterCard/MPG%20Wiki/Pages/Technical%20-%20M2M%20-%20M2M%20Money%20Transfer%20-%20Tahweel%20Flow.aspx
+
+
+ATMCASHOUT
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/ATM-Cashout---Routed-through-Tahweel.aspx
+
+tech
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/Technical---ATMCASHOUT---ATM-Cash-Out---Tahweel-Flow.aspx
+
+
+ATMCASHOUT Reversal
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/Functional--ATM-Cashout-Reversal-(Routed-through-Tahweel).aspx
+
+Tech
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/Pages/Technical%20-%20ATMCASHOUTR%20-%20ATM%20Cash%20Out%20Reversal-%20Tahweel%20Flow.aspx
+	
+	
+
+Functional Spec for Report
+
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/Documents/Forms/AllItems.aspx?viewid=6acfe773%2Dd75a%2D420b%2D810b%2De1fe4b1dbac1&id=%2Fsites%2FMasterCard%2Fmpg%2FDocuments%2FReport%20Specifications 
+	
+mpg_clinet new column
+ 
+testrunner.bat "D:/Load Test/EgyptSendMoneyDomestic-SMDOM.xml" -r -j -f"D:\temp11" -a –A
+testrunner.bat "D:/Load Test/EgyptAccountValueLoad-SMMYBNK.xml" -r -j -f"D:\temp11" -a –A
+testrunner.bat "D:/Load Test/EgyptMobileBillPay-MBILL.xml" -r -j -f"D:\temp14" -a –A
+
+Egypt P2M Money Transfer (P2MMT)----6097 response code
+EgyptSendMoneyDomestic-SMDOM--6097 response code
+EgyptCashOut-CSOT----agent merchant(Socket Exception)
+EgyptCashInPOI-CSINPOI----agent merchant(Socket Exception)
+EgyptMobileBillPay-MBILL--agent merchant(Socket Exception)
+EgyptAccountValueLoad-SMMYBNK
+EgyptUserInquiry-USERQ---no code
+Egypt Fees Inquiry - DEV
+
+
+
+DE 0,2,3,5,7,9,11,12,13,14,15,16,18,22,32,33,37,38,
+
+41,42,43,50,61,63,90,124,126,127
+
+Payment leg
+DE 90,108(DE108SE3SF2,SF3,SF4,SF5)
+
+
+DE 48 SE 77-Transaction Type Indicator for new services
+
+DE 108 SE2 SF11-Sender Account Number-This subelement contains the sender name, address, phone number, date of birth, and
+account details
+ssh krishna@172.16.32.41 --NAT 172.21.1.20 
+172.16.32.41 
+logs(Trianz@12345)Trianzadmin@123   Trianz@1212---new pwd   Trianz@1213  new pwd-  Trianz@1216 Trianz@1217 Trianz@1218 Trianz@1220 Trianz@1221 Trianz@1230
+Last login: Fri Jan  3 12:02:22 2020 from 10.20.10.38
+[tr1anzLinAdmin@mpgweairxway ~]$ ssh krishna@172.16.40.228           ssh krishna@172.16.32.39-SC(https://172.21.1.14/NAT)  ---C2D2   ssh krishna@172.16.32.38-(https://172.21.1.13/)
+ssh krishna@172.16.32.37   172.16.32.37-SITMTF-https://mtfisosit.mpgpoctrz.com/
+[krishna@mpgweqascapi01 ~]$ sudo su apps_user -s /bin/bash
+[apps_user@mpgweqascapi01 krishna]$ cd ~
+[apps_user@mpgweqascapi01 ~]$ ls -ltr
+[apps_user@mpgweqascapi01 ~]$ cd logs
+[apps_user@mpgweqascapi01 logs]$ ls -ltr
+[apps_user@mpgweqascapi01 logs]$ less egypt-se.log
+Shift+G---end of file
+ctrl + f      egypt-se-2021-06-25.0.log
+Ctrl + C
+?rrn
+:q---exit
+less egypt-se.log | grep "000080263974"  egypt-se-2020-05-08.0.log | grep "000081351057"    less egypt-se-2020-06-30.0.log | grep "000080263974" 
+less egypt-se-2022-04-05.0.log | grep "000080566034"
+less mpg-secure-vcn-service.log | grep "" 
+less egypt-se-2022-04-29.0.log | grep "000081384368"
+less egypt-se-2021-03-01.0.log | grep "000080283796"
+less egypt-se-2022-03-14.0.log | grep "000001250560"
+less egypt-se-2022-03-11.0.log | grep "000080283796"
+grep rrn filename
+[apps_user@mpgwestgapi03 logs]$ grep "000081354740" egypt-se-2020-07-01.0.log
+grep "000081359589"  egypt-se-2020-07-26.0.log
+
+less egypt-se-2021-08-17.0.log | grep "000384718803"
+#############################################################################################################
+omadmin
+Mock MIP- ssh krishna@172.16.32.212
+Pass- Trianz@1215 Trianz@1216 Trianz@1230
+sudo su apps_user -s /bin/bash
+cd ~
+Mocks-mock-iso-server/mock-iso-server1/mock-iso-server2
+App-mock-soap-api
+go to-mocks
+check the status- ./run-mock-mip.sh status
+to check all process running- ps -ef | grep java
+stop it- ./run-mock-mip.sh stop
+change timings in - delay.enable=false
+save it
+start the mock- ./run-mock-mip.sh start
+
+###########################################################################################################
+
+000000997990
+less egypt-se-2021-06-16.0.log | grep "000000923544"
+less egypt-se-2020-07-20.0.log | grep "000080263974"
+less egypt-se-2021-02-17.0.log | grep "000080263974"
+
+less egypt-se-2021-02-17.0.log | grep "000000993864"
+less egypt-se-2021-02-24.0.log | grep "000000996633"
+
+less egypt-se-2021-02-26.0.log | grep "000080283667"
+
+less egypt-se-2020-03-03.0.log | grep "000000997990"
+
+less egypt-se-2020-03-26.0.log | grep "5241654846753434"
+Krishna:
+
+1.	VALLOC-
+create vcn-0000 Successful VALLOC With Bank id and Merchant id- Consumer as Initiator; CP1 as Source; Max Trans is MAX; Validity is Months
+delete vcn-0000 Successful VCNDelete - Consumer as Initiator; Delete Master Pass VCN
+CR-007 
+00220917164858
+
+https://swadmin.atlassian.net/browse/M2NCA-17
+
+declined
+delete vcn:
+1301 Declined VCNDelete - different client ID
+1055 Declined VCNDelete - Initiator is Inactive
+1083 Declined VCNDelete - Funding Account Name does not exist
+
+VCNDelete- PSPC Call Failed-All are passed
+
+create vcn declined
+1055 Declined VALLOC - Initiator is Inactive
+1648 Declined VALLOC - VISA Card PAN 1 is used as Source Account
+1648 Declined VALLOC - VISA Card PAN 2 is used as Source Account
+1083 Declined VALLOC - Funding Account Name does not exist
+
+create vcn-PSPC Call Failed
+last 5 tcs
+
+
+
+2.	SMDOM/R-Done
+3.	CSINPOI/R-CSINPOI all are passed only in 2 in Validate 2nd ISO 0200 Request and one in(0000 Successful CSINPOI - Agent as Initiator; Consumer as Recipient; w/o Balance) Validate Soap Response-we are receving available balance eventhough test is without balance
+              CSINPOI-All are passed except below 2 in Validate 2nd ISO 0200 Request
+                 6015 Declined CSINPOI - Declined 2nd Funding ISO Response
+			     6098 Declined CSINPOI - Timeout 2nd Funding ISO Response
+              CSINPOIR - Declined -completedted 
+              CSINPOIR-Payment leg-Validate 2nd ISO 0200 Request DE108 is failing
+			  
+
+4.	CSOT/R-All are completed only issue with ISO DE108(Validate 2nd ISO 0200 Request) julian date issue which is known issue
+5.	ATMIWTH/R-Done
+6.	BALINNQ-Done
+
+1047/1080
+
+
+
+Consumer data
+select *
+FROM mpg_subscribers subs,mpg_accounts account
+	WHERE subs.msisdn = account.user_id 
+		AND subs.status = 'ACT'
+		--AND subs.mer_id IS NULL
+		AND account.lock_flag = '0'
+		AND account.mpin_has_changed='2'
+		--AND subs.mpin_has_changed='2'
+		AND subs.mno_id='VODAFONE'
+		and subs.mer_id IS NULL
+		--AND account.lock_flag='0'
+		
+		
+Merchant data		
+select *
+FROM mpg_merchants mer, mpg_subscribers subs,mpg_accounts account
+	WHERE mer.mer_type = '12'
+	AND mer.mer_status = 'INA'
+	AND mer.mer_id = subs.mer_id
+	AND subs.msisdn = account.user_id 
+	AND subs.mpin_has_changed='2'
+	AND subs.mno_id='VODAFONE'
+	AND subs.msisdn = account.user_id
+	AND account.lock_flag = '0'	
+	and subs.mer_id is not null
+	
+https://swadmin.atlassian.net/browse/M2C-420
+
+
+#############################################################################################
+batch registration
+ssh mpg_user@172.16.40.100  Trianz@1234567
+pwd:Trianzholdings@123/Trianzuser@123 Trianzuser@123   
+scp mpg_user@172.16.40.100:/u01/mpg_user/p2p-reconciliation-report-generator/output/P2PRR__20201007063530.html .
+scp mpg_user@172.16.32.231:/u01/mpg_user/p2p-reconciliation-report-generator/output/P2PRR_20200812075536.csv .
+to run
+sh exec_mpgcreg_batch_core.sh
+sh exec_mpgmreg_batch.sh
+
+in 231-c2d2
+For Consumer Registration:
+1.ssh mpg_user@172.16.32.231  Password:Mpguser@789     Mpguser@789
+in SIT and UAT MTF 
+ssh mpg_user@172.16.32.229    pwd:Trianzholdings@123
+
+2.cd Consumer
+/u01/mpg_user/ConsumerReg
+
+3.Do ls –ltr you will get list of all the Folders
+
+
+in 232 
+ssh mpg_user@172.16.32.232
+Trianzholdings@123 
+
+Z-scalar
+https://mtfisosit.mpgpoctrz.com/EG/ 
+
+ISO
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FMasterCard%2Fmpg%2FDocuments
+
+JIRA-task
+https://swadmin.atlassian.net/secure/RapidBoard.jspa?rapidView=25&projectKey=M2C&selectedIssue=M2C-1240&quickFilter=33
+
+
+MTF-SIT test accounts
+00220612140316-PAYMOBMNO-AAIB
+00220612140428-PAYMOBMNO-AAIB
+
+181207082625174
+
+
+Hi Shilpa,
+
+As discussed 4 Project are created please find the details below 
+
+qa.CD-C2D2-Database :-    Project will help you to deploy database code in C2d2 database server 
+qa.CD-C2D2-ServiceContainer: - this project for deploying service container on C2D2 environment 
+qa.CD-Database-QA-ENV: - this project for deployment DB code on QA environment 
+qa.CD-ServiceContainer-QA-ENV :- project will deploy service container release on QA environment
+
+Note:- 1) for Database CD release you need to pass user input as build data and time
+              2) for service container deployment you need to pass group-id, artifact-id, version
+
+Please ask Hirak and Kiran to check jenkins credentials 
+
+Thanks 
+Rajdeep Sinha
+
+uploaded videos in teams
+https://web.microsoftstream.com/video/1d298705-63e1-496a-838a-978e6c102c43
+
+egypt time
+https://www.timeanddate.com/worldclock/egypt/cairo
+
+JIRA TASK:Sprint 11
+https://swadmin.atlassian.net/secure/RapidBoard.jspa?rapidView=25&projectKey=M2C&quickFilter=33
+
+
+M2M service code need to change
+
+4056-Invalid merchant MSISDN
+4011-Intial MPIN not changed
+4070-Merchant type invalid
+4077-Merchnat status inactive
+
+
+Hi Shilpa,
+
+Please add your input for queries.
+
+1)Mpg to Non MPG scenario, recipient is macro merchant id/Acq merchant id and receiving Success response
+RRN: 000081353578
+
+In mods_txn_logs table, TRGT_MSISDN will be NULL 
+In ISO DE42- Acquirer Merchant , populating as ‘MoneySendNONMPG’
+In ISO DE48 - SE48SF03 Recipient Mobile Number, populating as 00000000000000
+In ISO DE108-SE1SF9- Recipient MSISDN
+
+2)Non MPG to MPG, recipient does not exist.
+For ReceiveM2Mrequest receiving  52005(Invalid Wallet at receiver scheme) but there is not error 
+
+
+shared teams chat
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fteam%2f19%3a3ce4fea98870458aa444c2d55508cd82%40thread.tacv2%2fconversations%3ftenantId%3da27f6b6b-dc28-48c2-a138-ddf0f11455f1&type=team&deeplinkId=cc36c6ce-93c7-4ef5-81d8-413edcb8aa1b&directDl=true&msLaunch=true&enableMobilePage=true
+
+
+
+SIT MTF data
+##################SMDOM
+Consumer
+src
+00220715100640
+PAYMOBMNO
+AAIB
+
+trgt
+00220715100732
+PAYMOBMNO
+AAIB
+
+trgt
+00220715122521
+FAWRY
+NBE
+
+###########################M2M
+
+P2M 
+Src
+00220715101348
+PAYMOBMNO
+AAIB
+
+Trgt
+00220715101421
+PAYMOBMNO
+AAIB
+
+TRGT
+trgt
+00220303180421
+FAWRY
+BDC
+
+
+${#TestCase#trgtMsisdn}
+
+###################################P2MRFND
+
+select * from mods_txn_logs where src_ica='14041' and se_respcode='0000' 
+and
+TRUNC(txn_date) = TRUNC('2020-07-23'::date) 
+and 
+SERVICE_CODE in ('SMDOM','M2MMT','M2MRFND','DEPOSITE') 
+select now()
+
+
+scp mpg_user@172.16.32.231:/u01/mpg_user/p2p-reconciliation-report-generator/output/P2PRR_20200812075536.csv .
+scp mpg_user@172.16.32.231:/u01/mpg_user/p2p-reconciliation-report-generator/output/P2PRR_20200728105311.csv .
+scp mpg_user@172.16.32.231:/u01/mpg_user/p2p-reconciliation-report-generator/output/P2PRR_20200817132902.csv .
+
+scp mpg_user@172.16.40.100:/u01/mpg_user/p2p-reconciliation-report-generator/output/P2PRR_20200812075536.csv .
+
+
+
+
+##########################################################################################################################################
+Hi Java, DB , and QA team,
+
+Today we had a call with Rajdeep and team. They are going to shutdown 172.21.1.10 jump  server next week. 
+What is the impact ? We won’t be able to connect to any non-prod server through ssh command with this jump host.
+
+Below ssh command will not work. Like this any ssh command with 172.21.1.10 server will not work.
+ssh -L 5444:172.16.32.231:5444 -m hmac-sha2-256 omadmin@172.21.1.10 
+
+Please change the above command like below. 
+ssh -L 5444:172.16.32.231:5444 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+
+Please try to connect to all the server which you used to connect with omadmin@172.21.1.10 by replacing it with vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+
+If you face any problem please reply back to Rajdeep/platform team.
+
+Thanks and Regards,
+Jayaram .L
+
+
+
+Hi team,
+
+
+Jayaram has already informed about tunneling user. Network team is removing access for 172.21.1.10 jumphost. We should use non prod wallix -172.21.1.11
+
+Please use below command for tunneling for c2D2. Similarly you can change ip and port for other non prod environments
+
+
+ssh -L 5444:172.16.32.231:5444 -m hmac-sha2-256 vpn@mcmpgnpwindom@mpgweqapgdb01:SSH:mpgnpvpnaccess:vpn@172.21.1.11
+
+password :Mpguser@1234567890
+
+
+Please use new command, and let me know if you face any issues. By next week they might remove access to 172.21.1.10 . So we  should inform Rajdeep if we face any issues with 172.21.1.11.
+
+To access app logs you need to connect to 172.21.1.11 with your wallix non prod user. I tried connecting but getting some issue. I am checking with Trupti and Abdul
+
+
+select txnamt,txn_date,logtime,rrn,service_code,src_msisdn,trgt_msisdn,src_ica,trgt_ica, mno_id,trgt_mno from MODS_TXN_LOGS where  
+TRUNC(LOGTIME) = TRUNC('2020-08-05'::date) and SERVICE_CODE in ('SMDOM','CSINPOI','CSOT','P2MMT','M2MMT','P2MRFND','M2MRFND','DEPOSIT') --and trgt_ica='23500'
+and trgt_ica is not NULL
+and src_ica is not NULL
+
+
+00201100926211-999999
+9A0524C12B92F310
+
+30-12-2020
+HDFC phone:080 61606161
+loan
+54678890
+250464  3.54
+         2.36
+https://bit.ly/2RzXZeY		
+
+0.77%
+Thank You for filling the form Reference number : 15608274
+Thank you , We will Process your request or contact you within 2 working days.Stay safe
+
+30-12-2020
+SBI
+2019 1
+1100253242330--6th Jan  3005 compl
+499 wave off --1100255438387--4 to 5 day
+99+
+440
+
+BENGALURU - Bengaluru-548/D  1st Floor  Maruthi Mansion CMH Road Indiranagar Karnataka-560038
+
+
+Thank You for filling the form Reference number : 13402439
+Thank you , We will Process your request or contact you within 2 working days.Stay safe
+
+
+
+
+*************************VCN
+https://trianz365.sharepoint.com/:w:/s/MasterCard/mpg/ESn7ruFy_tpMvSS0p-GV6xkBGA05doWxh--mIkYIBrqq1A?e=Fj9Dau 
+
+
+Queries
+https://trianz365.sharepoint.com/:x:/s/MasterCard/mpg/ERS9AzvO8nBClxXSyAc5ngYBHtMsA4fWyUiA7I8H0xfZDg?e=S0DBwG
+
+•	VCNACTLIST
+
+https://trianz365.sharepoint.com/:f:/r/sites/MasterCard/mpg/Documents/PI%20Planning/Q1%202021/Testing%20Artifacts/Test%20Case?csf=1&web=1&e=nGlm1e
+
+
+
+
+JIRA
+https://swadmin.atlassian.net/browse/PI2021DD-71
+
+
+Meeza change-Non MPG to Mpg-F332005
+https://trianz365.sharepoint.com/:w:/s/MasterCard/mpg/ERnZYDW9RK5KipORDXzXWG8BmKWjDiqtZufiAl0zowGYqQ?e=nZs0hM
+
+F318472 - VCN MPG controls the maximum limits per Wallet program 
+https://trianz365.sharepoint.com/:w:/r/sites/MasterCard/mpg/_layouts/15/Doc.aspx?sourcedoc=%7B0348D746-93A2-43A6-A0F9-3BA156335DAA%7D&file=F318472%20-%20VCN%20MPG%20controls%20the%20maximum%20limits%20-%20User%20Story.docx&action=default&mobileredirect=true&cid=83cc785f-350e-4e7c-85fd-536599d05436
+
+Display VCN-F318468 – Display VCN Information – User Story 
+https://trianz365.sharepoint.com/:w:/s/MasterCard/mpg/ESn7ruFy_tpMvSS0p-GV6xkBGA05doWxh--mIkYIBrqq1A?e=Fj9Dau
+
+
+Simplify VCN delete  F318466 - Simplify VCN Delete 
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/Documents/Forms/AllItems.aspx?csf=1&web=1&e=nGlm1e&cid=0abd4166%2Dc1b1%2D4dee%2Db324%2D724d6f852b00&FolderCTID=0x0120004FE96F80560B7043BD718E4FB56C6595&viewid=6acfe773%2Dd75a%2D420b%2D810b%2De1fe4b1dbac1&id=%2Fsites%2FMasterCard%2Fmpg%2FDocuments%2FPI%20Planning%2FQ1%202021%2FFeatures%20Documentation%2FF318466%20%2D%20Simplify%20VCN%20Delete
+
+VCN allocation
+https://trianz365.sharepoint.com/sites/MasterCard/MPG%20Wiki/Pages/VCN%20Allocation.aspx
+
+
+VCN Delete
+https://trianz365.sharepoint.com/sites/MasterCard/MPG%20Wiki/Pages/VCN%20Delete.aspx
+
+
+
+
+selenium
+https://selenium-release.storage.googleapis.com/index.html?path=3.141/  ----download
+
+git
+https://github.com/kmarchard/PageObjectModel1
+
+
+
+
+display VCN
+https://swadmin.atlassian.net/browse/PI2021DD-84  defect 
+https://swadmin.atlassian.net/browse/PI2021DD-85
+https://swadmin.atlassian.net/browse/PI2021DD-86
+https://swadmin.atlassian.net/browse/PI2021DD-87
+https://swadmin.atlassian.net/browse/PI2021DD-88-defect
+https://swadmin.atlassian.net/browse/PI2021DD-94
+
+Summary	Issue key
+VCN Display:VCNACTLIST: Update Expiry date to past date in DB but still this VCN coming in Displaying VCN	PI2021DD-94
+Display VCN: get Active VCN-VCNACTLIST-receiving 1997 error.	PI2021DD-88
+VCN Display:In mpg_vcn_details table VCN_CUMU_LIMIT_FREQ value not populating	PI2021DD-87
+VCN Display:Created VCN â€˜5391682240871427â€™ which is  not inserted into mpg_vcn_details table	PI2021DD-86
+Display VCN: get Active VCN-VCNACTLIST-the order of display vcns not the same order its created	PI2021DD-85
+Display VCN: get Active VCN-VCNACTLIST-For FAWRY wallet receiving 1997 error.	PI2021DD-84
+
+
+S@msung36
+
+Perf by Girija
+
+ssh -L 8095:172.16.32.232:8095 -m hmac-sha2-256 omadmin@172.21.1.10
+S@msung36 S@msung36
+def url = 'https://172.21.1.58/ 
+
+def mcspUrl = 'localhost:8095'
+def mcspUsername = 'mpg_apps'
+def mcspPassword = 'Stage_4Mpgapps' 
+
+def modsUrl = 'localhost:8095'
+def modsUsername = 'fods_apps'
+def modsPassword = 'Stage_4Fodsapps' 
+
+
+172.16.32.43---app logs https://172.21.1.58/
+
+
+Delete VCN--Dhanuja
+PL0007- 1902 - Unable to process your transaction at this time. Vcn not found. Ref. Number ${referenceId} MM: ${responseCode}
+
+PL0008 -1901 - VCN already deleted : ${request.transactionBody.lookupVcn}
+
+
+
+10002140410
+25/06/1991
+
+VCN Delete
+https://swadmin.atlassian.net/browse/PI2021DD-99
+https://swadmin.atlassian.net/browse/PI2021DD-100
+https://swadmin.atlassian.net/browse/PI2021DD-101
+https://swadmin.atlassian.net/browse/PI2021DD-104
+
+
+eclipse workspace
+
+C:\Users\Krishnakumar.M\eclipse-workspace
+
+
+status as E then display VCN -its not coming
+
+
+"CICD build and deployment demo "
+https://web.microsoftstream.com/video/1d298705-63e1-496a-838a-978e6c102c43
+https://web.microsoftstream.com/video/02d7f45b-916f-4e1c-addc-e4bf9f166786
+BurfSuite
+BurpSuite KT
+https://web.microsoftstream.com/video/74c9f53f-d40d-41dc-9f80-6898706385a7 
+
+
+J-meter KT
+https://web.microsoftstream.com/video/e5ab8f25-d02c-402d-a125-8dfceeb5e798 
+
+JENKIN URL:
+http://172.21.1.28/jenkins/
+
+NEXUS URL:
+https://172.21.1.56/ 
+
+BUILD [ CI ]
+Engg.CI-Database
+Engg.CI-ServiceContainer
+
+C2D2.CI-DB - Build Number 
+------------------------------------
+2020-06-12-09-43-34
+
+C2D2.CI-SC - Build Number
+------------------------------------
+GroupID=com.smarthub.mpg
+ArtifactId=mpg-egypt-service-container
+VersionID=4.18.5.0-EGYPT
+
+DEPLOYMENT [ CD ]
+Engg.CD-C2D2-Database
+Engg.CD-C2D2-ServiceContainer
+
+
+https://github.com/hemanth22/dockerfiles/blob/master/database/ol7_122/Dockerfile
+https://github.com/chethan110/java-tomcat-maven-example
+
+
+
+Hi Team,
+I have created and published a document in SharePoint mentioning the detailed steps to perform build and deployment in Jenkins.
+Kindly refer and revert in case of queries/issues. Hope this is useful. Please find the link below :
+
+https://trianz365.sharepoint.com/:w:/r/sites/MasterCard/mpg/_layouts/15/Doc.aspx?sourcedoc=%7BDBABE30B-6F5B-4E01-8061-D566779013A0%7D&file=Jenkins%20Deployment%20Steps.docx&action=default&mobileredirect=true
+
+
+Regards,
+Naveena Sugumar
+
+
+##############################################################Madhu##############################3
+Jenkinsfile
+https://github.com/ybmadhu/spring3-mvc-maven-xml-hello-world/blob/master/Jenkinsfile
+pipeline {
+    agent {
+        label "master"
+    }
+    tools {
+        // Note: this should match with the tool name configured in your jenkins instance (JENKINS_URL/configureTools/)
+        maven "Maven3"
+    }
+    environment {
+        // This can be nexus3 or nexus2
+        NEXUS_VERSION = "nexus3"
+        // This can be http or https
+        NEXUS_PROTOCOL = "http"
+        // Where your Nexus is running
+        NEXUS_URL = "localhost:8081"
+        // Repository where we will upload the artifact
+        NEXUS_REPOSITORY = "dvs-evn-spring"
+        // Jenkins credential id to authenticate to Nexus OSS
+        NEXUS_CREDENTIAL_ID = "nexus_credentials"
+    }
+    stages {
+        stage("clone code") {
+            steps {
+                script {
+                    // Let's clone the source
+                    git 'https://github.com/ybmadhu/spring3-mvc-maven-xml-hello-world.git';
+                }
+            }
+        }
+        stage("mvn build") {
+            steps {
+                script {
+                    // If you are using Windows then you should use "bat" step
+                    // Since unit testing is out of the scope we skip them
+                    bat(/${MAVEN_HOME}\bin\mvn -Dmaven.test.failure.ignore clean package/)
+                }
+            }
+        }
+        stage("publish to nexus") {
+            steps {
+                script {
+                    // Read POM xml file using 'readMavenPom' step , this step 'readMavenPom' is included in: https://plugins.jenkins.io/pipeline-utility-steps
+                    pom = readMavenPom file: "pom.xml";
+                    // Find built artifact under target folder
+                    filesByGlob = findFiles(glob: "target/*.${pom.packaging}");
+                    // Print some info from the artifact found
+                    echo "${filesByGlob[0].name} ${filesByGlob[0].path} ${filesByGlob[0].directory} ${filesByGlob[0].length} ${filesByGlob[0].lastModified}"
+                    // Extract the path from the File found
+                    artifactPath = filesByGlob[0].path;
+                    // Assign to a boolean response verifying If the artifact name exists
+                    artifactExists = fileExists artifactPath;
+                    if(artifactExists) {
+                        echo "*** File: ${artifactPath}, group: ${pom.groupId}, packaging: ${pom.packaging}, version ${pom.version}";
+                        nexusArtifactUploader(
+                            nexusVersion: NEXUS_VERSION,
+                            protocol: NEXUS_PROTOCOL,
+                            nexusUrl: NEXUS_URL,
+                            groupId: pom.groupId,
+                            version: '${BUILD_NUMBER}',
+                            repository: NEXUS_REPOSITORY,
+                            credentialsId: NEXUS_CREDENTIAL_ID,
+                            artifacts: [
+                                // Artifact generated such as .jar, .ear and .war files.
+                                [artifactId: pom.artifactId,
+                                classifier: '',
+                                file: artifactPath,
+                                type: pom.packaging],
+                                // Lets upload the pom.xml file for additional information for Transitive dependencies
+                                [artifactId: pom.artifactId,
+                                classifier: '',
+                                file: "pom.xml",
+                                type: "pom"]
+                            ]
+                        );
+                    } else {
+                        error "*** File: ${artifactPath}, could not be found";
+                    }
+                }
+            }
+        }
+    }
+}
+S@msung36
+
+############################################################################################3
+
+C:\Users\Krishnakumar.M\eclipse-workspace
+
+connect to SCP
+172.21.1.10
+S@msung36
+S@msung36
+WINSCP
+[omadmin@mpgweairxway01 ~]$ cd Krishna/
+[omadmin@mpgweairxway01 Krishna]$ scp 17569_CREG20210415113119_20210415113119.txt mpg_user@172.16.32.231:/u01/mpg_user/ConsumerReg/INPUT
+Mpguser@789
+S@msung36
+S@msung36
+
+scp 17569_CREG20210415113119_20210415113119.txt mpg_user@172.16.32.231:/u01/mpg_user/ConsumerReg
+
+scp 18825_MREG20211117154633_20211117154633.txt mpg_user@172.16.32.231:/u01/mpg_user/MerchantReg/INPUT
+scp 18825_MREG20211117154634_20211117154634.txt mpg_user@172.16.32.231:/u01/mpg_user/MerchantReg/INPUT
+in 231 Mpguser@789  Mpguser@789
+For Consumer Registration:
+1.ssh mpg_user@172.16.32.231  Password:Mpguser@789 Mpguser@789     Mpguser@789
+in SIT and UAT MTF 
+ssh mpg_user@172.16.32.229    pwd:Trianzholdings@123
+
+omadmin@172.21.1.10 S@msung36
+Mpguser@789
+
+[omadmin@mpgweairxway01 Krishna]$ scp 17569_CREG20210415113126_20210415113126.txt mpg_user@172.16.32.231:/u01/mpg_user/ConsumerReg/INPUT
+scp 18825_MREG20211117154633_20211117154633.txt mpg_user@172.16.32.231:/u01/mpg_user/ConsumerReg/INPUT
+
+////Pefrf
+ssh omadmin@172.16.32.43 Trianz@12345
+ssh omadmin@172.16.32.42 Trianz@222
+ssh omadmin@172.16.32.41 Trianz@222
+
+
+ssh krishna@172.16.32.41
+S@msung36
+
+
+ssh mpg_user@172.16.32.232
+Trianzholdings@123 
+
+
+To display- crontab -l
+To edit - crontab -e
+To display date- date
+To update- change the timings to start as 'minute hour' and save it
+To list the process once the time is set- ps -ef|grep exec_mpgcreg_batch_core 
+
+
+Unix commands
+http://mally.stanford.edu/~sr/computing/basic-unix.html
+
+https://172.21.1.49/EG/services/MPGPurchaseM2MRefundService.wsdl
+
+
+
+
+
+    stages {
+
+        stage("Interactive_Input") {
+            steps {
+                script {
+
+                    // Variables for input
+                    def inputConfig
+                    def inputTest
+
+                    // Get the input
+                    def userInput = input(
+                            id: 'userInput', message: 'Enter path of test reports:?',
+                            parameters: [
+
+                                    string(defaultValue: 'None',
+                                            description: 'Path of config file',
+                                            name: 'Config'),
+                                    string(defaultValue: 'None',
+                                            description: 'Test Info file',
+                                            name: 'Test'),
+                            ])
+
+                    // Save to variables. Default to empty string if not found.
+                    inputConfig = userInput.Config?:''
+                    inputTest = userInput.Test?:''
+
+                    // Echo to console
+                    echo("IQA Sheet Path: ${inputConfig}")
+                    echo("Test Info file path: ${inputTest}")
+
+                    // Write to file
+                    writeFile file: "inputData.txt", text: "Config=${inputConfig}\r\nTest=${inputTest}"
+
+                    // Archive the file (or whatever you want to do with it)
+                    archiveArtifacts 'inputData.txt'
+                }
+				
+				
+	RestAssured
+https://github.com/Raghav-Pal/REST-assured_Project/tree/master/src/test/java	
+
+
+
+
+
+Install Jenkins on ami instance
+update the ami instance if its new instance
+$ sudo yum update -y
+ for install and running Jenkins we need a java. Install java first
+$ sudo yum install java-1.8.0 -y
+Now install Jenkins 
+Update the yum package management tool.
+$ sudo yum update -y
+Download the latest Jenkins code package.
+$ sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins.io/redhat/jenkins.repo
+Import a key file from Jenkins-CI to enable installation from the package.
+$ sudo rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
+Install Jenkins.
+$ sudo yum install jenkins -y
+Start Jenkins as a service.
+$ sudo service jenkins start
+To start the jenkins service at boot-up, you can run.
+$ sudo chkconfig jenkins on
+Access you Jenkins url.
+http://yourserverip:8080/ 
+
+As noted on the user interface, you can find this password in /var/lib/jenkins/secrets/initialAdminPassword. Paste the value into the password box, then choose and continue…
+
+
+MPG CICD
+pipeline {
+
+    agent { label 'java' }
+	tools {
+        jdk 'jdk7'
+    }
+    environment{
+        PATH = "/tools/maven/apache-maven-3.6.3/bin:$PATH"
+		HOME = "${env.WORKSPACE}"
+    }
+	
+    stages {
+	
+       stage("Interactive_Input") {
+            steps {
+                script {
+
+                    // Variables for input
+                    def inputbranch
+
+                    // Get the input
+                    def userInput = input(
+                            id: 'userInput', message: 'Enter value below:?',
+                            parameters: [
+
+                                    string(defaultValue: 'none',
+                                            description: 'Enter Build Number',
+                                            name: 'date-time'),
+
+                            ])
+
+                    // Save to variables. Default to empty string if not found.
+                       env.inputbranch = userInput?:''
+
+                    // Echo to console
+                    echo("BranchID: ${env.inputbranch}")
+                }
+            }
+        }
+		
+     stage('run ansible nexus.yaml') {
+       steps {
+        dir("/etc/ansible") {
+         script {
+		 sh 'whoami'
+		 sh "ssh  root@172.16.48.36 -C \"ansible-playbook  /etc/ansible/nexus-for-db.yaml --extra-vars  'time=${inputbranch}'\""
+		    }   
+       }
+     }
+   }
+      stage('run ansible for deploy') {
+       steps {
+        dir("/etc/ansible") {
+         script {
+		 sh 'whoami'
+		 sh "ssh  root@172.16.48.36  -C \"ansible-playbook  /tools/ansible-playbook/application/database/database-deploy.yml -e 'env=qa app=db ansible_ssh_pass=Trianzholdings@123'\""
+		}   
+      }
+    }
+  }
+ }
+}
+	
+SOAPUI	
+	https://github.com/SmartBear/soapui
+	
+	
+	https://github.com/jmstechhome11/hello.git
+	
+	
+	
+	
+Next PI-Feb 16 processe
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/Forms/ByAuthor.aspx  main link
+Agent cashout
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/Agent-Cashout.aspx
+Agent cashin
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/Agent-Cashin.aspx
+Agent cash out reversal
+https://trianz365.sharepoint.com/sites/MasterCard/mpg/SitePages/Agent-Cashout-Reversal(1).aspx
+
+
+
+Git
+https://172.21.1.59/anand/soap-ui-projects/tree/smoke-test-scripts/smoke_tests/config
+
+
+BUILD-ZULU-CI------>Pipeline Engg.CI-ZULU-ServiceContainer------CI
+QA-Deploy---->Pipeline Engg.CD-QA-ServiceContainer-NO-smock----CD
+
+Hirak-Smoke test
+CI job :
+Engg.qa-smoke-test
+branch name - smoke-test-scripts
+
+CD Pipeline:
+Engg.CD-QA-ServiceContainer
+
+ssh krishna@172.16.48.36 ---->devops server
+Trianz@1220
+sudo su root
+ssh 172.16.50.69---jenkins server
+cd /tools
+
+
+
+
+
+Validate the reports
+Agent cashin
+1)Agent cashin-Issuer
+2)Agent cashin-Acquirer(MPG to MPG OFF US)
+3)Agent cashin-Acquirer(MPG to Non MPG)
+
+Agent-Cashout
+ssh -L 5444:172.16.40.100:5444 -L 8086:172.16.32.212:8086 -m hmac-sha2-256 omadmin@172.21.1.10
+ssh -L 5444:172.16.32.231:5444 -L 8086:172.16.32.212:8086 -m hmac-sha2-256 omadmin@172.21.1.10
+1)Agent cashout-Issuer
+2)Agent cashout-Acquirer(MPG to MPG OFF US)
+3)Agent cashout-Acquirer(MPG to Non MPG)Flow type:NONMPG2MPG     MPG-OFFUS
+
+Agent cashout Reversals
+1)AGENTCSOTR
+00008055079777
+${#TestCase#msisdn}
+AGENTCASHOUT RRN:${AGENTCSOT#Response#declare namespace ns3='http://smarthub.com.ph/mpg/schemas/agent-cash-out'; declare namespace ns2='http://smarthub.com.ph/mpg/schemas/common-types'; //ns3:AgentCashOutResponse[1]/ns3:transaction_header[1]/ns2:transaction_reference_no[1]}
+
+
+
+
+
+Last day at Trianz
+
+Hi All,
+
+Today is my last working day in Trianz. 
+
+Thank you for all your guidance and support. You have been an integral part of my learning in my professional and personal life.
+
+Please do stay in touch..
+
+I’m reachable on my mobile on 8970904767.
+
+
+Thanks,
+Krishna
